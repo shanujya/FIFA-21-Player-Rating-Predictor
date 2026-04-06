@@ -38,8 +38,8 @@ A **Random Forest Regressor** was selected to capture the non-linear relationshi
 * **Machine Learning:** `scikit-learn` (RandomForestRegressor, RFE, MinMaxScaler, train_test_split)
 
 ## 🚀 How to Run the Notebook
-1. Clone the repository: `git clone https://github.com/YourUsername/Your-Repo-Name.git`
+1. Clone the repository: `git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/shanujya/FIFA-21-Player-Rating-Predictor.git)`
 2. Ensure you have the `fifa21 datatset.csv` in the root directory.
 3. Install the required dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`
-4. Open the Jupyter Notebook: `jupyter notebook DPP_Assignment.ipynb`
+4. Open the Jupyter Notebook: `jupyter notebook FIFA 21 Player Rating Predictor.ipynb`
 5. Run the cells sequentially to observe the pipeline transformations and final model evaluation.
